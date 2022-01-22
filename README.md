@@ -1,6 +1,6 @@
 # ByDiego-Nitro-Gen
 
-ByDiego Nitro Gen is a tool for discord. Developed in JavaScript
+ByDiego Nitro Gen is a tool for discord. Developed in Python
 
 TO OPEN NITRO GEN PRESS ENTER
 
